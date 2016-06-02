@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #FFE;
+	border-style: solid;
+	border-color: #000;
+	border-width: 15px;
+	padding: 50px;
+}
+
+a{
+	color: #900;
+	text-decoration: line-through;
+	font-style: bold;
+}
+
+.callout-text {
+	color: #887;
+}
+
+
+}
