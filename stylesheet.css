@@ -9,6 +9,10 @@ body {
 	padding: 50px;
 }
 
+h3 {
+	text-transform: uppercase;
+}
+
 a{
 	color: #900;
 	text-decoration: line-through;
